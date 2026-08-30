@@ -1,0 +1,451 @@
+[
+  {
+    "bookingCode": "RIDEMITRA-EL7II5",
+    "createdAt": "2026-08-30T06:02:14.939Z",
+    "vehicle": {
+      "id": "v_1787161883764",
+      "brand": "venu",
+      "model": "sx",
+      "year": "2024",
+      "price": 2500,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-30",
+    "endDate": "2026-08-31",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2999,
+    "days": 1,
+    "paymentMethod": "Pay at Pickup (Cash / UPI)",
+    "paymentStatus": "Pending at Pickup",
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-30T06:02:42.172Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-4SIB7C",
+    "createdAt": "2026-08-24T17:20:44.595Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-24",
+    "endDate": "2026-08-25",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 3499,
+    "days": 1,
+    "paymentMethod": "UPI / GPay (9494096333@ibl)",
+    "paymentStatus": "Paid via UPI",
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-P1JN5F",
+    "createdAt": "2026-08-24T17:11:17.823Z",
+    "vehicle": {
+      "id": "v_1787141135328",
+      "brand": "Swift",
+      "model": "vix",
+      "year": "2023",
+      "price": 2000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-24",
+    "endDate": "2026-08-25",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2499,
+    "days": 1,
+    "paymentMethod": "UPI / GPay (9494096333@ibl)",
+    "paymentStatus": "Paid via UPI",
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-P4U8B5",
+    "createdAt": "2026-08-24T16:28:27.623Z",
+    "vehicle": {
+      "id": "v_1787161883764",
+      "brand": "venu",
+      "model": "sx",
+      "year": "2024",
+      "price": 2500,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-24",
+    "endDate": "2026-08-25",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2999,
+    "days": 1,
+    "paymentMethod": "UPI / GPay (9494096333@ibl)",
+    "paymentStatus": "Paid via UPI",
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-V2FMBR",
+    "createdAt": "2026-08-24T15:42:15.372Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "adithya",
+      "email": "adityamamidalaa@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-24",
+    "endDate": "2026-08-27",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 9499,
+    "days": 3,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-24T15:42:59.661Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-U84DQ6",
+    "createdAt": "2026-08-20T17:39:48.991Z",
+    "vehicle": {
+      "id": "c1",
+      "brand": "Mahindra",
+      "model": "Thar 4x4 LX",
+      "year": 2024,
+      "price": 3800,
+      "type": "car"
+    },
+    "user": {
+      "name": "Sairithvik",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-22",
+    "location": "Rajkot — Central Hub",
+    "totalAmount": 4299,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Plans changed",
+    "cancelledAt": "2026-08-20T17:39:49.036Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-70IYRI",
+    "createdAt": "2026-08-20T16:37:01.737Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 3499,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-20T17:55:40.619Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-RCW4WI",
+    "createdAt": "2026-08-20T16:35:21.084Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 3499,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-20T17:55:47.816Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-REZE7K",
+    "createdAt": "2026-08-20T16:35:07.377Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 3499,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-20T17:55:53.700Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-RPDZR4",
+    "createdAt": "2026-08-20T14:04:42.731Z",
+    "vehicle": {
+      "id": "v_1787161883764",
+      "brand": "venu",
+      "model": "sx",
+      "year": "2024",
+      "price": 2500,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithvik0333 Lakkakula",
+      "email": "sairithvik0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2999,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-DORVMW",
+    "createdAt": "2026-08-20T14:02:15.384Z",
+    "vehicle": {
+      "id": "v_1787161883764",
+      "brand": "venu",
+      "model": "sx",
+      "year": "2024",
+      "price": 2500,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2999,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-24T15:43:50.680Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-CYSZI7",
+    "createdAt": "2026-08-19T17:49:19.261Z",
+    "vehicle": {
+      "id": "v_1787161487462",
+      "brand": "creata",
+      "model": "sx",
+      "year": "2025",
+      "price": 3000,
+      "type": "car"
+    },
+    "user": {
+      "name": "sairithviklakkakula0333",
+      "email": "sairithviklakkakula0333@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "mancherial — Central Hub",
+    "totalAmount": 3499,
+    "days": 1,
+    "status": "Cancelled",
+    "emailSent": true,
+    "isRealSMTP": true,
+    "cancelReason": "Cancelled by customer",
+    "cancelledAt": "2026-08-20T17:46:57.069Z"
+  },
+  {
+    "bookingCode": "RIDEMITRA-H3SQC5",
+    "createdAt": "2026-08-19T17:22:12.664Z",
+    "vehicle": {
+      "id": "c1",
+      "brand": "Mahindra",
+      "model": "Thar 4x4 LX",
+      "year": 2024,
+      "price": 3800,
+      "type": "car"
+    },
+    "user": {
+      "name": "Demo Rider",
+      "email": "demo@ridemitra.in",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "Rajkot — Central Hub",
+    "totalAmount": 4299,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-SWJXTG",
+    "createdAt": "2026-08-19T12:41:17.986Z",
+    "vehicle": {
+      "id": "c1",
+      "brand": "Mahindra",
+      "model": "Thar 4x4 LX",
+      "year": 2024,
+      "price": 3800,
+      "type": "car"
+    },
+    "user": {
+      "name": "rithvik112006",
+      "email": "rithvik112006@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "Rajkot — Central Hub",
+    "totalAmount": 4299,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-PY1GNG",
+    "createdAt": "2026-08-19T12:41:13.008Z",
+    "vehicle": {
+      "id": "v_1787141135328",
+      "brand": "Swift",
+      "model": "vix",
+      "year": "2023",
+      "price": 2000,
+      "type": "car"
+    },
+    "user": {
+      "name": "rithvik112006",
+      "email": "rithvik112006@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "rajkot — Central Hub",
+    "totalAmount": 2499,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-HE7SFF",
+    "createdAt": "2026-08-19T12:37:10.946Z",
+    "vehicle": {
+      "id": "c2",
+      "brand": "Toyota",
+      "model": "Fortuner 4x4",
+      "year": 2023,
+      "price": 6200,
+      "type": "car"
+    },
+    "user": {
+      "name": "rithvik112006",
+      "email": "rithvik112006@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "Ahmedabad — Central Hub",
+    "totalAmount": 6699,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  },
+  {
+    "bookingCode": "RIDEMITRA-22HOY0",
+    "createdAt": "2026-08-19T12:31:19.323Z",
+    "vehicle": {
+      "id": "c1",
+      "brand": "Mahindra",
+      "model": "Thar 4x4 LX",
+      "year": 2024,
+      "price": 3800,
+      "type": "car"
+    },
+    "user": {
+      "name": "rithvik112006",
+      "email": "rithvik112006@gmail.com",
+      "phone": ""
+    },
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-20",
+    "location": "Rajkot — Central Hub",
+    "totalAmount": 4299,
+    "days": 1,
+    "status": "Confirmed",
+    "emailSent": true,
+    "isRealSMTP": true
+  }
+]

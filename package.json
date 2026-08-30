@@ -1,0 +1,17 @@
+{
+  "name": "ridemitra-backend",
+  "version": "1.0.0",
+  "description": "Backend API for RideMitra Rentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "xlsx": "^0.18.5"
+  }
+}
