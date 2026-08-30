@@ -18,6 +18,11 @@ app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 app.use(express.static(__dirname));
 
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
+
+
 function getVehicles() {
   try {
     if (fs.existsSync(DATA_FILE)) {
